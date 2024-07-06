@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["@minimessi's personal assistant","@minimessi's personal helper 😝"];
+const statusMessages = ["@minimessi's personal assistant","@minimessi's personal assistant 😝"];
 
 
 let currentIndex = 0;
